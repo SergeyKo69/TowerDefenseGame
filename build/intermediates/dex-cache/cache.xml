@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/koguts/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.8/a35a0076fbce873f9c2d5a1a1c8066244231bb3c/gdx-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a35a0076fbce873f9c2d5a1a1c8066244231bb3c">
+        <dex dex="/Users/koguts/Dropbox/Java/GeekUnivercity/Android/Lesson8/AndroidTD/android/build/intermediates/pre-dexed/debug/gdx-1.9.8_4c42cc47efd3e50774d42afaf26d47149fce947f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/koguts/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype/1.9.8/d92b5b8beab10e3b3c0dd836d4fc186f95e7ea4b/gdx-freetype-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d92b5b8beab10e3b3c0dd836d4fc186f95e7ea4b">
+        <dex dex="/Users/koguts/Dropbox/Java/GeekUnivercity/Android/Lesson8/AndroidTD/android/build/intermediates/pre-dexed/debug/gdx-freetype-1.9.8_b79fa6f35ee6b5513238018506d0c0bf75136515.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/koguts/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.8/84024cd60ad6f26370891fbcd17de9f0167e662/gdx-backend-android-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="084024cd60ad6f26370891fbcd17de9f0167e662">
+        <dex dex="/Users/koguts/Dropbox/Java/GeekUnivercity/Android/Lesson8/AndroidTD/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.9.8_4b4dc8ed126f800d530fd54818dedd44d4680932.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/koguts/Dropbox/Java/GeekUnivercity/Android/Lesson8/AndroidTD/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6a6db66bc85629c93193610594d264ee6d88fffc">
+        <dex dex="/Users/koguts/Dropbox/Java/GeekUnivercity/Android/Lesson8/AndroidTD/android/build/intermediates/pre-dexed/debug/core-1.0_53c6974d647a0e26850c425d3d20bb0dee8e1476.jar" />
+    </item>
+
+</items>
